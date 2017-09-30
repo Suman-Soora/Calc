@@ -18,7 +18,7 @@ int main()
 	res = sub(a, b) ;
 	printf("a-b = %d\n", res);
 
-//	res = mult("a*b = %d\n", res);
-
+//	res = mult(a, b);
+//	printf("a*b = %d\n", res);
 	return 0;
 }
