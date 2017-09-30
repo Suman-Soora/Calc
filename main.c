@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
+//#include "/Multplication/mult.h"
 
 
-//int add(int, int);
-//int sub(int, int);
+
 
 
 int main()
@@ -17,6 +17,8 @@ int main()
 
 	res = sub(a, b) ;
 	printf("a-b = %d\n", res);
+
+//	res = mult("a*b = %d\n", res);
 
 	return 0;
 }
